@@ -2,7 +2,6 @@
 
 ---
 
-**Grupo** ~~computadora~~**Tostadora**
 
 - *Ejercicio 1:* cómo crear, modificar y hacer el archivo Readme.md
 - *Ejercicio 2:* Creacion de un archivo html en forma manual
