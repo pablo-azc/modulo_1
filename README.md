@@ -1,5 +1,4 @@
-# TyHM 2026
-Mediacion de materiales 
+# Módulo 1
 
 ---
 
